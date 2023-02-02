@@ -1,0 +1,33 @@
+.signin{
+    display: grid;
+    justify-content: center;
+    color: white;
+    margin: 10rem;
+}
+
+.signin_text{ 
+    border-color: white;
+}
+
+.signin input {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px 10px 10px 10px;
+    width: 70%;
+    background-color: black;
+    color: white;
+}
+
+.login_submit{
+    width: 50%;
+    background-color: orangered;
+    border: none;
+    outline: none;
+    color: white;
+    border-radius:50px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 10px;  
+    font-size: 15pt;  
+    cursor: pointer;
+}

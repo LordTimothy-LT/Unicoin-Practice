@@ -1,0 +1,24 @@
+.regHeader{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    align-items: center;
+}
+
+.regHeader img{
+    width: 100px;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+
+.regHeader button{
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    padding: 0; 
+    padding: 10px;
+    margin: 0 20px;
+}

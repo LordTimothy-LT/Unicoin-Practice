@@ -1,0 +1,48 @@
+.login_form {
+    background-color: rgb(238, 238, 238);
+    width: 27%;
+    padding: 20px 0px;
+    margin: 30px auto 0px auto;
+    border-radius: 5px;
+  }
+  .login_text h1 {
+     padding-bottom: 60px; 
+     padding-top: 10px;
+    color: white;
+  }
+  .login_text p{
+      color:#F8D149
+  }
+  .login_form h3 {
+    margin-top: 30px;
+  }
+  .login_form input {
+    padding: 8px 10px 10px 30px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid black;
+  }
+  .login_form h3{
+      color: #0F0BED;
+  }
+  button{
+      color: #F8D149;
+      background: #1D0202;
+      border-radius: 20px;
+      width: 145px;
+      border-radius: 5px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+   .pword p{
+    color: blue;
+    margin-top: 10px;
+    margin-left: 90px;
+  }
+  .pword, Link{
+    margin-left: 100px;
+    color: blue;
+  }
+  span{
+    color: blue
+  }
